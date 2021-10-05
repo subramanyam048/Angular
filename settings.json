@@ -1,0 +1,14 @@
+{
+    "githubIssues.createIssueTriggers": [
+        "TODO",
+        "todo",
+        "BUG",
+        "FIXME",
+        "ISSUE",
+        "HACK",
+        "src"
+    ],
+    "githubIssues.ignoreMilestones": [
+    
+    ]
+}
